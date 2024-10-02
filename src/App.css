@@ -1,0 +1,112 @@
+
+/* @author done by Camila, Thushani, Amanah, Thiviya and Saba*/
+
+.myMain {
+    margin: 10px 10% 20px 10%;
+    padding: 10px 20px 0 30px;
+    /*border-style: solid;*/
+    /*border-color: red;*/
+}
+
+.Homeh2 {
+    text-decoration: underline;
+    background: #ddb216;
+    padding: 10px 10px 10px 10px;
+}
+
+div.right-hand-side__RightHandSide-sc-1c11aed-0.bzvdkU {
+    align-items: flex-end;
+}
+
+caption.Caption-sc-pvwfz5-0.flYymR {
+    padding-bottom: 50px;
+    font-size: 40px;
+}
+
+div.src__StyledPanel-sc-12tinr5-0.jfNkrV{
+    background-color: #00703c;
+    margin-right: 50%;
+}
+
+div.top-nav-inner__TopNavInner-sc-15yph1v-0.gHhTfu {
+    max-width: 100%;
+    padding: 10px 5% 10px 5%;
+}
+
+
+div.bottom-nav-wrapper__BottomNavWrapper-sc-1334g24-0.dxwMfe {
+    max-width: 100%;
+}
+
+input.src__Input-sc-1ch9crp-0.lolzCh {
+    width: 50%;
+}
+
+button.src__StyledButton-sc-19ocyxv-0.cQOmgm {
+    margin-top: 30px;
+}
+
+.footer {
+    padding: 5px;
+}
+
+.footerLinks1 {
+    display: flex;
+    column-gap: 15px;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+}
+
+.footerLinks2 {
+    width: fit-content;
+    height: fit-content;
+    padding-top: 15px;
+}
+
+.footerLogo {
+    float: right;
+    width: 125px;
+    height: 125px;
+}
+
+table.src__StyledTable-sc-16s660v-0.jsFYRH.RegisterTable {
+    width: 70%;
+}
+table.src__StyledTable-sc-16s660v-0.jsFYRH.RegisterTable th {
+    border-bottom: none;
+}
+
+table.src__StyledTable-sc-16s660v-0.jsFYRH.RegisterTable td {
+    border-bottom: none;
+}
+
+input.src__Input-sc-1ch9crp-0.lolzCh{
+    margin-bottom: 15px;
+}
+
+.tabsSt2  {
+    text-decoration: none;    
+}
+
+.tabsSt2:visited {
+    color: black;
+}
+
+.tabsSt1:visited {
+    color: black;
+}
+
+
+
+.greyText {
+    color: grey;
+}
+
+
+
+
+
+
+
+
